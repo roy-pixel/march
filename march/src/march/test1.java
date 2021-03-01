@@ -8,7 +8,7 @@ public class test1 {
 		int b=20;
 		int sum = a+b;
 		System.out.println(sum);
-		System.out.println("                    vikash kumar ");
+		System.out.println("  vikash kumar ");
 	
 		
 	}
