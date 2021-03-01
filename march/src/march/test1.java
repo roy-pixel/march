@@ -8,6 +8,9 @@ public class test1 {
 		int b=20;
 		int sum = a+b;
 		System.out.println(sum);
+		
+		int mul = a*b;
+		System.out.println(mul);
 	}
 
 }
